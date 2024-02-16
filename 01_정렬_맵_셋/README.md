@@ -6,20 +6,15 @@
 
 ### 라이브 코딩
 
+
+
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
-
 |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
-
 |  [10825](https://www.acmicpc.net/problem/10825)  |  [국영수](https://www.acmicpc.net/problem/10825)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/01_정렬_맵_셋/라이브코딩/10825.cpp)  | 정렬 |
-
 |  [1620](https://www.acmicpc.net/problem/1620)  |  [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/01_정렬_맵_셋/라이브코딩/1620.cpp)  | 자료 구조, 해시를 사용한 집합과 맵 |
-
 |  [2002](https://www.acmicpc.net/problem/2002)  |  [추월](https://www.acmicpc.net/problem/2002)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/01_정렬_맵_셋/라이브코딩/2002.cpp)  | 자료 구조, 해시를 사용한 집합과 맵, 구현, 문자열 |
-
 |  [2750](https://www.acmicpc.net/problem/2750)  |  [수 정렬하기](https://www.acmicpc.net/problem/2750)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |  [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/01_정렬_맵_셋/라이브코딩/2750.cpp)  | 정렬, 구현 |
-
 |  [2751](https://www.acmicpc.net/problem/2751)  |  [수 정렬하기 2](https://www.acmicpc.net/problem/2751)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |  [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/01_정렬_맵_셋/라이브코딩/2751.cpp)  | 정렬 |
-
 |  [7785](https://www.acmicpc.net/problem/7785)  |  [회사에 있는 사람](https://www.acmicpc.net/problem/7785)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |  [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/01_정렬_맵_셋/라이브코딩/7785.cpp)  | 자료 구조, 해시를 사용한 집합과 맵 |
 
 ## ✏️ 과제
@@ -33,23 +28,16 @@
 ### 필수
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
-
 |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
-
 |  [1431](https://www.acmicpc.net/problem/1431)  |  [시리얼 번호](https://www.acmicpc.net/problem/1431)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 정렬 |
-
 |  [14425](https://www.acmicpc.net/problem/14425)  |  [문자열 집합](https://www.acmicpc.net/problem/14425)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |   | 자료 구조, 해시를 사용한 집합과 맵, 문자열, 트리를 사용한 집합과 맵 |
-
 |  [19636](https://www.acmicpc.net/problem/19636)  |  [요요 시뮬레이션](https://www.acmicpc.net/problem/19636)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |    | 구현 |
 
 ### 도전
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
-
 |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
-
 |  [1946](https://www.acmicpc.net/problem/1946)  |  [신입 사원](https://www.acmicpc.net/problem/1946)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |   | 그리디 알고리즘, 정렬 |
-
 |  [9375](https://www.acmicpc.net/problem/9375)  |  [패션왕 신해빈](https://www.acmicpc.net/problem/9375)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 조합론, 자료 구조, 해시를 사용한 집합과 맵, 수학 |
 
 ---

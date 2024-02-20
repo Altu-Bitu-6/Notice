@@ -1,6 +1,6 @@
 # 정렬_맵_셋
 
-[메인으로 돌아가기](https://github.com/Altu-Bitu-5/Notice)
+[메인으로 돌아가기](https://github.com/Altu-Bitu-6/Notice)
 
 ## 💻 튜터링
 

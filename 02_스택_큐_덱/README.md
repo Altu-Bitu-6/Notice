@@ -4,9 +4,9 @@
 ### 라이브 코딩
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [10828](https://www.acmicpc.net/problem/10828) | [스택](https://www.acmicpc.net/problem/10828) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-5/Notice/blob/main/02_스택_큐_덱/라이브코딩/10828.cpp) | 자료 구조, 구현, 스택 |
-| [10845](https://www.acmicpc.net/problem/10845) | [큐](https://www.acmicpc.net/problem/10845) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-5/Notice/blob/main/02_스택_큐_덱/라이브코딩/10845.cpp) | 자료 구조, 큐 |
-| [10866](https://www.acmicpc.net/problem/10866) | [덱](https://www.acmicpc.net/problem/10866) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-5/Notice/blob/main/02_스택_큐_덱/라이브코딩/10866.cpp) | 자료 구조, 덱, 구현 |
+| [10828](https://www.acmicpc.net/problem/10828) | [스택](https://www.acmicpc.net/problem/10828) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/02_스택_큐_덱/라이브코딩/10828_v2.cpp) | 자료 구조, 구현, 스택 |
+| [10845](https://www.acmicpc.net/problem/10845) | [큐](https://www.acmicpc.net/problem/10845) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/02_스택_큐_덱/라이브코딩/10845_v2.cpp) | 자료 구조, 큐 |
+| [10866](https://www.acmicpc.net/problem/10866) | [덱](https://www.acmicpc.net/problem/10866) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/02_스택_큐_덱/라이브코딩/10866_v2.cpp) | 자료 구조, 덱, 구현 |
 ## ✏️ 과제 
 ### 마감기한
 ~ 2 / 27 (화) 18:59 - 과제 제출 </br>

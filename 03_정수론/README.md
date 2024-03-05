@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1735](https://www.acmicpc.net/problem/1735) | [분수 합](https://www.acmicpc.net/problem/1735) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 유클리드 호제법, 수학, 정수론 |
-| [2840](https://www.acmicpc.net/problem/2840) | [행운의 바퀴](https://www.acmicpc.net/problem/2840) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | | 구현, 시뮬레이션 |
-| [6588](https://www.acmicpc.net/problem/6588) | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | | 수학, 정수론, 소수 판정, 에라토스테네스의 체 |
+| [1735](https://www.acmicpc.net/problem/1735) | [분수 합](https://www.acmicpc.net/problem/1735) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/03_정수론/필수/1735.cpp) | 유클리드 호제법, 수학, 정수론 |
+| [2840](https://www.acmicpc.net/problem/2840) | [행운의 바퀴](https://www.acmicpc.net/problem/2840) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/03_정수론/필수/2840.cpp) | 구현, 시뮬레이션 |
+| [6588](https://www.acmicpc.net/problem/6588) | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/03_정수론/필수/6588.cpp) | 수학, 정수론, 소수 판정, 에라토스테네스의 체 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2981](https://www.acmicpc.net/problem/2981) | [검문](https://www.acmicpc.net/problem/2981) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  | 유클리드 호제법, 수학, 정수론 |
-| [9421](https://www.acmicpc.net/problem/9421) | [소수상근수](https://www.acmicpc.net/problem/9421) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> || 수학, 정수론, 소수 판정, 에라토스테네스의 체 |
+| [2981](https://www.acmicpc.net/problem/2981) | [검문](https://www.acmicpc.net/problem/2981) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/03_정수론/도전/2981.cpp) | 유클리드 호제법, 수학, 정수론 |
+| [9421](https://www.acmicpc.net/problem/9421) | [소수상근수](https://www.acmicpc.net/problem/9421) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/03_정수론/도전/9421.cpp) | 수학, 정수론, 소수 판정, 에라토스테네스의 체 |
 ---
  ### 힌트
 <details><summary>골드바흐의 추측</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;b - a가 가장 큰 경우가 언제일지 잘 생각해보아요! n = a + b를 만족시키는 두 소수들을 어디서부터 탐색하면 좋을까요?</div></details>

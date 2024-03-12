@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1063](https://www.acmicpc.net/problem/1063) | [킹](https://www.acmicpc.net/problem/1063) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 구현, 시뮬레이션 |
-| [1436](https://www.acmicpc.net/problem/1436) | [영화감독 숌](https://www.acmicpc.net/problem/1436) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |  | 브루트포스 알고리즘 |
-| [11723](https://www.acmicpc.net/problem/11723) | [집합](https://www.acmicpc.net/problem/11723) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |  | 비트마스킹, 구현 |
+| [1063](https://www.acmicpc.net/problem/1063) | [킹](https://www.acmicpc.net/problem/1063) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/04_브루트포스/필수/1063.cpp) | 구현, 시뮬레이션 |
+| [1436](https://www.acmicpc.net/problem/1436) | [영화감독 숌](https://www.acmicpc.net/problem/1436) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/04_브루트포스/필수/1436.cpp) | 브루트포스 알고리즘 |
+| [11723](https://www.acmicpc.net/problem/11723) | [집합](https://www.acmicpc.net/problem/11723) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/04_브루트포스/필수/11723.cpp) | 비트마스킹, 구현 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1052](https://www.acmicpc.net/problem/1052) | [물병](https://www.acmicpc.net/problem/1052) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 비트마스킹, 그리디 알고리즘, 수학 |
-| [14620](https://www.acmicpc.net/problem/14620) | [꽃길](https://www.acmicpc.net/problem/14620) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  | 브루트포스 알고리즘 |
+| [1052](https://www.acmicpc.net/problem/1052) | [물병](https://www.acmicpc.net/problem/1052) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/04_브루트포스/도전/1052.cpp) | 비트마스킹, 그리디 알고리즘, 수학 |
+| [14620](https://www.acmicpc.net/problem/14620) | [꽃길](https://www.acmicpc.net/problem/14620) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/04_브루트포스/도전/14620.cpp) | 브루트포스 알고리즘 |
 ---
  ### 힌트
 <details><summary>킹</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;킹과 돌의 움직임이 모두 판 안에서 이뤄질 때만 다음으로 움직일 수 있는 점을 유의해주세요!</div></details>

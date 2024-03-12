@@ -20,7 +20,7 @@
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1052](https://www.acmicpc.net/problem/1052) | [물병](https://www.acmicpc.net/problem/1052) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  | 비트마스킹, 그리디 알고리즘, 수학 |
+| [1052](https://www.acmicpc.net/problem/1052) | [물병](https://www.acmicpc.net/problem/1052) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 비트마스킹, 그리디 알고리즘, 수학 |
 | [14620](https://www.acmicpc.net/problem/14620) | [꽃길](https://www.acmicpc.net/problem/14620) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  | 브루트포스 알고리즘 |
 ---
  ### 힌트

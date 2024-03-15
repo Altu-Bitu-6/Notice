@@ -21,17 +21,15 @@ int main() {
     while (m--) {
         cin >> op;
 
-				// x 피연산자가 입력되지 않는 연산자: all, empty
+	// x 피연산자가 입력되지 않는 연산자: all, empty
         if (op == "all") {
-            for (int i = 1; i <= 20; i++) {
-                value = value | (1 << i);
-            }
+            value = (1 << 21) - 1;
         }
         else if (op == "empty") {
             value = 0;
         }
 
-				// x 피연산자가 입력되는 연산자: add, remove, check, toggle
+	// x 피연산자가 입력되는 연산자: add, remove, check, toggle
         else {
             cin >> x;
             if (op == "add") {

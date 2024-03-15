@@ -21,7 +21,7 @@ int main() {
     while (m--) {
         cin >> op;
 
-				// x 피연산자가 입력되지 않는 연산자: all, empty
+	// x 피연산자가 입력되지 않는 연산자: all, empty
         if (op == "all") {
             value = (1 << 21) - 1;
         }
@@ -29,7 +29,7 @@ int main() {
             value = 0;
         }
 
-				// x 피연산자가 입력되는 연산자: add, remove, check, toggle
+	// x 피연산자가 입력되는 연산자: add, remove, check, toggle
         else {
             cin >> x;
             if (op == "add") {

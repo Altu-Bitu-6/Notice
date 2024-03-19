@@ -13,14 +13,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2075](https://www.acmicpc.net/problem/2075) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  | 자료 구조, 우선순위 큐, 정렬 |
-| [2607](https://www.acmicpc.net/problem/2607) | [비슷한 단어](https://www.acmicpc.net/problem/2607) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 구현, 문자열 |
-| [14235](https://www.acmicpc.net/problem/14235) | [크리스마스 선물](https://www.acmicpc.net/problem/14235) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 자료 구조, 우선순위 큐 |
+| [2075](https://www.acmicpc.net/problem/2075) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/05_우선순위큐/필수/2075.cpp) | 자료 구조, 우선순위 큐, 정렬 |
+| [2607](https://www.acmicpc.net/problem/2607) | [비슷한 단어](https://www.acmicpc.net/problem/2607) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/05_우선순위큐/필수/2607.cpp) | 구현, 문자열 |
+| [14235](https://www.acmicpc.net/problem/14235) | [크리스마스 선물](https://www.acmicpc.net/problem/14235) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/05_우선순위큐/필수/14235.cpp) | 자료 구조, 우선순위 큐 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1655](https://www.acmicpc.net/problem/1655) | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |  | 자료 구조, 우선순위 큐 |
-| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Lv.3 |  | 우선순위 큐 |
+| [1655](https://www.acmicpc.net/problem/1655) | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/05_우선순위큐/도전/1655.cpp) | 자료 구조, 우선순위 큐 |
+| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Lv.3 | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/05_우선순위큐/도전/디스크_컨트롤러.cpp) | 우선순위 큐 |
 ---
  ### 힌트
 <details><summary>비슷한 단어</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;문제의 조건대로 구현해주시면 됩니다 :)</div></details>

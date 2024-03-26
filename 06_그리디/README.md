@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1213](https://www.acmicpc.net/problem/1213) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 그리디 알고리즘, 구현, 문자열 |
-| [17451](https://www.acmicpc.net/problem/17451) | [평행 우주](https://www.acmicpc.net/problem/17451) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 그리디 알고리즘, 수학 |
-| [15662](https://www.acmicpc.net/problem/15662) | [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 구현, 시뮬레이션 |
+| [1213](https://www.acmicpc.net/problem/1213) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/06_그리디/필수/1213.cpp) | 그리디 알고리즘, 구현, 문자열 |
+| [17451](https://www.acmicpc.net/problem/17451) | [평행 우주](https://www.acmicpc.net/problem/17451) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/06_그리디/필수/17451.cpp) | 그리디 알고리즘, 수학 |
+| [15662](https://www.acmicpc.net/problem/15662) | [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/06_그리디/필수/15662.cpp) | 구현, 시뮬레이션 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 그리디 알고리즘, 수학 |
-| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 |  | 그리디 알고리즘 |
+| [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/06_그리디/도전/19539.cpp) | 그리디 알고리즘, 수학 |
+| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/06_그리디/도전/큰_수_만들기.cpp) | 그리디 알고리즘 |
 ---
  ### 힌트
 <details><summary>톱니바퀴 (2)</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;톱니바퀴가 돌아가는 것에는 순서가 있는게 아닙니다!(한 톱니바퀴가 돌아가고 이후 다른 톱니바퀴의 극을 보지 않는다는 뜻) 이점에 유의해서 문제를 풀어보세요.</div></details>

@@ -5,7 +5,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
 | [알고스팟](https://algospot.com/judge/problem/read/JUMPGAME) | [외발 뛰기](https://algospot.com/judge/problem/read/JUMPGAME) |  | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/07_동적계획법/라이브코딩/외발뛰기.cpp) | 다이나믹 프로그래밍 |
-| [14501](https://www.acmicpc.net/problem/14501) | [퇴사](https://www.acmicpc.net/problem/14501) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/07_동적계획법/라이브코딩/14501.cpp) | 다이나믹 프로그래밍, 브루트포스 알고리즘 |
+| [14501](https://www.acmicpc.net/problem/14501) | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14501) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/07_동적계획법/라이브코딩/14501.cpp) | 다이나믹 프로그래밍, 브루트포스 알고리즘 |
 | [14002](https://www.acmicpc.net/problem/14002) | [평범한 배낭](https://www.acmicpc.net/problem/14002) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/07_동적계획법/라이브코딩/14002.cpp) | 다이나믹 프로그래밍 |
 ## ✏️ 과제 
 ### 마감기한

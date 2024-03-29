@@ -29,4 +29,5 @@
 <details><summary>숫자 할리갈리 게임</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;카드를 어떤 자료구조로 관리하면 좋을까요? 게임을 반복해서 진행하네요. 함수화를 통해 효율적으로 코드를 작성할 수 있을 것 같아요! 덱이 비어있는 경우에 주의하세요!</div></details>
 <details><summary>자두나무</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;초마다 자두를 먹을 수 있는 조건과 먹을 수 없는 조건을 생각해보면 좋을 것 같습니다!</div></details>
 <details><summary>외판원 순회</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;방문한 도시를 배열로 저장하게 되면 메모리초과가 나게 됩니다. 방문한 도시를 어떻게 저장하면 좋을까요?</div></details>
+
 ---

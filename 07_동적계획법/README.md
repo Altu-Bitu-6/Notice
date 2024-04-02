@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2579](https://www.acmicpc.net/problem/2579) | [계단 오르기](https://www.acmicpc.net/problem/2579) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 다이나믹 프로그래밍 |
-| [11053](https://www.acmicpc.net/problem/11053) | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  | 다이나믹 프로그래밍 |
-| [20923](https://www.acmicpc.net/problem/20923) | [숫자 할리갈리 게임](https://www.acmicpc.net/problem/20923) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  | 자료 구조, 덱, 구현, 시뮬레이션 |
+| [2579](https://www.acmicpc.net/problem/2579) | [계단 오르기](https://www.acmicpc.net/problem/2579) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/07_동적계획법/필수/2579.cpp) | 다이나믹 프로그래밍 |
+| [11053](https://www.acmicpc.net/problem/11053) | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/07_동적계획법/필수/11053.cpp) | 다이나믹 프로그래밍 |
+| [20923](https://www.acmicpc.net/problem/20923) | [숫자 할리갈리 게임](https://www.acmicpc.net/problem/20923) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/07_동적계획법/필수/20923.cpp) | 자료 구조, 덱, 구현, 시뮬레이션 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2240](https://www.acmicpc.net/problem/2240) | [자두나무](https://www.acmicpc.net/problem/2240) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 다이나믹 프로그래밍 |
-| [2098](https://www.acmicpc.net/problem/2098) | [외판원 순회](https://www.acmicpc.net/problem/2098) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |  | 다이나믹 프로그래밍, 비트마스킹, 비트필드를 이용한 다이나믹 프로그래밍, 외판원 순회 문제 |
+| [2240](https://www.acmicpc.net/problem/2240) | [자두나무](https://www.acmicpc.net/problem/2240) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/07_동적계획법/도전/2240.cpp) | 다이나믹 프로그래밍 |
+| [2098](https://www.acmicpc.net/problem/2098) | [외판원 순회](https://www.acmicpc.net/problem/2098) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/07_동적계획법/도전/2098.cpp) | 다이나믹 프로그래밍, 비트마스킹, 비트필드를 이용한 다이나믹 프로그래밍, 외판원 순회 문제 |
 ---
  ### 힌트
 <details><summary>계단 오르기</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;마지막 계단을 밟는 경우는 2가지가 있습니다. 2가지 경우를 잘 고려해보세요.</div></details>

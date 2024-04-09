@@ -13,14 +13,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2606](https://www.acmicpc.net/problem/2606) | [바이러스](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색 |
-| [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  | 브루트포스 알고리즘, 구현 |
-| [2644](https://www.acmicpc.net/problem/2644) | [촌수계산](https://www.acmicpc.net/problem/2644) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색 |
+| [2606](https://www.acmicpc.net/problem/2606) | [바이러스](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/08_DFS_BFS/필수/2606.cpp) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색 |
+| [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/08_DFS_BFS/필수/2615.cpp) | 브루트포스 알고리즘, 구현 |
+| [2644](https://www.acmicpc.net/problem/2644) | [촌수계산](https://www.acmicpc.net/problem/2644) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/08_DFS_BFS/필수/2644.cpp) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [14500](https://www.acmicpc.net/problem/14500) | [테트로미노](https://www.acmicpc.net/problem/14500) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  | 구현, 브루트포스 알고리즘 |
-| [14502](https://www.acmicpc.net/problem/14502) | [연구소](https://www.acmicpc.net/problem/14502) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 구현, 그래프 이론, 브루트포스 알고리즘, 그래프 탐색, 너비 우선 탐색 | 그래프 탐색 |
+| [14500](https://www.acmicpc.net/problem/14500) | [테트로미노](https://www.acmicpc.net/problem/14500) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/08_DFS_BFS/도전/14500.cpp) | 구현, 브루트포스 알고리즘 |
+| [14502](https://www.acmicpc.net/problem/14502) | [연구소](https://www.acmicpc.net/problem/14502) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/08_DFS_BFS/도전/14502.cpp) | 구현, 그래프 이론, 브루트포스 알고리즘, 그래프 탐색, 너비 우선 탐색 |
 ---
  ### 힌트
 <details><summary>바이러스</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;컴퓨터 연결 관계를 어떤 방식으로 나타내면 좋을지 생각해보세요. 1번 컴퓨터가 바이러스에 감염되는 경우를 구하는 조건이 무엇일까요?</div></details>

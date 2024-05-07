@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [10815](https://www.acmicpc.net/problem/10815) | [숫자 카드](https://www.acmicpc.net/problem/10815) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |  | 이분 탐색, 자료 구조, 해시를 사용한 집합과 맵, 정렬 |
-| [17266](https://www.acmicpc.net/problem/17266) | [어두운 굴다리](https://www.acmicpc.net/problem/17266) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  | 구현, 이분 탐색 |
-| [16401](https://www.acmicpc.net/problem/16401) | [과자 나눠주기](https://www.acmicpc.net/problem/16401) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  | 이분 탐색, 매개 변수 탐색 |
+| [10815](https://www.acmicpc.net/problem/10815) | [숫자 카드](https://www.acmicpc.net/problem/10815) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/10_이분탐색/필수/10815.cpp) | 이분 탐색, 자료 구조, 해시를 사용한 집합과 맵, 정렬 |
+| [17266](https://www.acmicpc.net/problem/17266) | [어두운 굴다리](https://www.acmicpc.net/problem/17266) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/10_이분탐색/필수/17266.cpp) | 구현, 이분 탐색 |
+| [16401](https://www.acmicpc.net/problem/16401) | [과자 나눠주기](https://www.acmicpc.net/problem/16401) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/10_이분탐색/필수/16401.cpp) | 이분 탐색, 매개 변수 탐색 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2343](https://www.acmicpc.net/problem/2343) | [기타 레슨](https://www.acmicpc.net/problem/2343) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  | 이분 탐색, 매개 변수 탐색 |
-| [3079](https://www.acmicpc.net/problem/3079) | [입국심사](https://www.acmicpc.net/problem/3079) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 이분 탐색, 매개 변수 탐색 |
+| [2343](https://www.acmicpc.net/problem/2343) | [기타 레슨](https://www.acmicpc.net/problem/2343) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/10_이분탐색/도전/2343.cpp) | 이분 탐색, 매개 변수 탐색 |
+| [3079](https://www.acmicpc.net/problem/3079) | [입국심사](https://www.acmicpc.net/problem/3079) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/10_이분탐색/도전/3079.cpp) | 이분 탐색, 매개 변수 탐색 |
 ---
  ### 힌트
 <details><summary>숫자 카드</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;라이브 코딩 문제를 복습하며 풀어봅시다. 찾아야 할 게 무엇일까요?</div></details>

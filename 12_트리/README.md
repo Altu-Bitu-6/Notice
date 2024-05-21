@@ -13,14 +13,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [15681](https://www.acmicpc.net/problem/15681) | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 깊이 우선 탐색, 다이나믹 프로그래밍, 트리에서의 다이나믹 프로그래밍, 그래프 이론, 그래프 탐색, 트리 |
-| [3190](https://www.acmicpc.net/problem/3190) | [뱀](https://www.acmicpc.net/problem/3190) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  | 자료 구조, 덱, 구현, 큐, 시뮬레이션 |
-| [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 그래프 이론, 그래프 탐색, 재귀, 트리 |
+| [15681](https://www.acmicpc.net/problem/15681) | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/12_트리/필수/15681.cpp) | 깊이 우선 탐색, 다이나믹 프로그래밍, 트리에서의 다이나믹 프로그래밍, 그래프 이론, 그래프 탐색, 트리 |
+| [3190](https://www.acmicpc.net/problem/3190) | [뱀](https://www.acmicpc.net/problem/3190) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/12_트리/필수/3190.cpp) | 자료 구조, 덱, 구현, 큐, 시뮬레이션 |
+| [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/12_트리/필수/5639.cpp) | 그래프 이론, 그래프 탐색, 재귀, 트리 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1967](https://www.acmicpc.net/problem/1967) | [트리의 지름](https://www.acmicpc.net/problem/1967) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  | 깊이 우선 탐색, 그래프 이론, 그래프 탐색, 트리 |
-| [24545](https://www.acmicpc.net/problem/24545) | [Y](https://www.acmicpc.net/problem/24545) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> |  | 깊이 우선 탐색, 다이나믹 프로그래밍, 트리에서의 다이나믹 프로그래밍, 그래프 이론, 그래프 탐색, 트리 |
+| [1967](https://www.acmicpc.net/problem/1967) | [트리의 지름](https://www.acmicpc.net/problem/1967) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/12_트리/도전/1967.cpp) | 깊이 우선 탐색, 그래프 이론, 그래프 탐색, 트리 |
+| [24545](https://www.acmicpc.net/problem/24545) | [Y](https://www.acmicpc.net/problem/24545) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/12_트리/도전/24545.cpp) | 깊이 우선 탐색, 다이나믹 프로그래밍, 트리에서의 다이나믹 프로그래밍, 그래프 이론, 그래프 탐색, 트리 |
 ---
  ### 힌트
 <details><summary>트리와 쿼리</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;모든 정점을 각각 루트로 하는 서브트리에서의 정점의 수를 빠르게 구해 둘 방법이 무엇일까요? 앞서 배운 알고리즘을 떠올려보세요!</div></details>

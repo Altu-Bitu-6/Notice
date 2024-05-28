@@ -20,15 +20,15 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브](https://www.acmicpc.net/problem/15685) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  | 구현, 시뮬레이션 |
-| [1238](https://www.acmicpc.net/problem/1238) | [파티](https://www.acmicpc.net/problem/1238) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  | 다익스트라 |
-| [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  | 플로이드-워셜 |
+| [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브](https://www.acmicpc.net/problem/15685) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/13_최단경로/필수/15685.cpp) | 구현, 시뮬레이션 |
+| [1238](https://www.acmicpc.net/problem/1238) | [파티](https://www.acmicpc.net/problem/1238) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/13_최단경로/필수/1238.cpp) | 다익스트라 |
+| [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/13_최단경로/필수/2458.cpp) | 플로이드-워셜 |
 
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | **Lv.3** |  | 플로이드-워셜 |
-| [1865](https://www.acmicpc.net/problem/1865) | [웜홀](https://www.acmicpc.net/problem/1865) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  | 벨만-포드 |
+| [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | **Lv.3** | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/13_최단경로/도전/합승택시.cpp) | 플로이드-워셜 |
+| [1865](https://www.acmicpc.net/problem/1865) | [웜홀](https://www.acmicpc.net/problem/1865) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/13_최단경로/도전/1865.cpp) | 벨만-포드 |
 ---
 
 ### 힌트
